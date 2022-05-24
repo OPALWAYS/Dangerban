@@ -32,17 +32,17 @@
         },
         "API_ID": {
             "description": "Get from https://my.telegram.org",
-            "value": "",
+            "value": "12799499",
             "required": true
         },
         "API_HASH": {
             "description": "Get from https://my.telegram.org",
-            "value": "",
+            "value": "d0d6a81527302ce13bb1e04b580f0518",
             "required": true
         },
         "SUDO": {
             "description": "sudo ids here.",
-            "value": "",
+            "value": "5321177778",
             "required": true
         }
     }
